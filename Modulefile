@@ -1,11 +1,8 @@
 name    'krisbuytaert-tmpwatch'
 version '0.0.1'
-source 'UNKNOWN'
+source 'http://github.com/KrisBuytaert/puppet-tmpwatch.git'
 author 'krisbuytaert'
 license 'UNKNOWN'
-summary 'UNKNOWN'
-description 'UNKNOWN'
-project_page 'UNKNOWN'
-
-## Add dependencies, if any:
-# dependency 'username/name', '>= 1.2.0'
+summary 'Clean up a specific directory with files of a specific age'
+description 'The tmpwatch module configures cronjobs with to clean up a specific directory with files of a specific age'
+project_page 'http://github.com/KrisBuytaert/puppet-tmpwatch'
